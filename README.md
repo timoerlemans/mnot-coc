@@ -9,7 +9,7 @@
 1. 
 
 ## Slack specifiek
-1. Gebruik maken van threads is verplicht in #marktplaats en #vragen-van-de-luisteraar. In andere kanalen is het niet verplicht maar het kan wel bijdragen aan een beter leesbaar kanaal.
+1. Gebruik maken van threads is verplicht in #ask-me-anything, #marktplaats en #vragen-van-de-luisteraar. In andere kanalen is het niet verplicht maar het kan wel bijdragen aan een beter leesbaar kanaal.
 1. Dagelijks om 13:37 uur (CET/CEST) mag er in #huiskamer een :1337: emoji gepost worden als toplevel comment. Maximaal 1 per persoon en maximaal 3 in totaal/per dag.
 1. Nieuwe leden die een mijlpaal halen (bijv. 1000e member) behouden hun mijlpaal. Ook als er tussentijds iemand vertrekt waardoor het ledenaantal onder de mijlpaal zakt. De 'nieuwe' 1000e member krijgt dus geen feestje.
 1. 
