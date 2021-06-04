@@ -6,7 +6,7 @@
 1. Post geen spam, recruitment berichten, NSFW-content of haatspraak.
 1. Post geen enquêtes of onderzoeken zonder dat eerst met een admin te hebben overlegd.
 1. Respecteer de onderwerpen van kanalen. Voor off-topic discussies of onderwerpen waarvoor geen kanaal is gebruiken we #huiskamer.
-1. 
+1. Om deel te nemen aan de MNOT-community platforms dien je 18 jaar of ouder te zijn, of in staat zijn om je 18+ te gedragen.
 
 ## Slack specifiek
 1. Gebruik maken van threads is verplicht in #ask-me-anything, #marktplaats en #vragen-van-de-luisteraar. In andere kanalen is het niet verplicht maar het kan wel bijdragen aan een beter leesbaar kanaal.
